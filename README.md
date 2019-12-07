@@ -12,9 +12,9 @@ Initially, we used the following data set found at https://www.datacamp.com/proj
 
 We have been influenced by a lot of work after a research we conducted on this particular topic and we found the following sites interesting for a certain cause.
 
-https://www.datacamp.com/projects/441 - The mentioned project tasks included some interesting questions we needed to find answers to, thus we decided to re-engineer the data to properly formulate answers.
-https://www.kaggle.com/devisangeetha/nobel-prize-winners-story - Inspired on how well and organized that research was and the outcome that this research helped discovering.
-https://www.nobelprize.org/prizes/facts/nobel-prize-facts/ - Website contains a large bulk of Nobel Prize winners facts including both interesting and shocking events in the history.
+* https://www.datacamp.com/projects/441 - The mentioned project tasks included some interesting questions we needed to find answers to, thus we decided to re-engineer the data to properly formulate answers.
+* https://www.kaggle.com/devisangeetha/nobel-prize-winners-story - Inspired on how well and organized that research was and the outcome that this research helped discovering.
+* https://www.nobelprize.org/prizes/facts/nobel-prize-facts/ - Website contains a large bulk of Nobel Prize winners facts including both    interesting and shocking events in the history.
 
 
 For Further details please check the notebook.
