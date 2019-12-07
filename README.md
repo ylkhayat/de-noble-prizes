@@ -1,4 +1,4 @@
-# Nobel Prizes
+# Visual History of Nobel Prize Winners
 
 # Overview & Motivation
 
